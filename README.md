@@ -1,5 +1,5 @@
 # DataManipulation_Analysis_MachineLearning
-Homework and Final Project for Data Manipulation and Analysis course at the University of Michigan
+Homework and Final Project for Data Manipulation and Analysis course at the University of Michigan.
 
 ## Homework Assignments:
 - Homework 1 - Data Manipulation and analysis of historical data from the Olympic games
